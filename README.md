@@ -10,3 +10,4 @@ Ini merupakan hasil belajar saya untuk membuat sebuah API Automation menggunakan
 - Kemudian buka text editor yang biasa digunakan
 - Buka terminal kemudian ketikan perintah "npm install" (note: Pastikan anda sudah menginstall node js telebih dahulu)
 - Jika sudah selesai anda bisa menjalankan perintah "npx mocha .\test\specs\test.js" untuk menjalankan test
+- Anda dapat menambahkan perintah "npx mocha .\test\specs\test.js --reporter mochawesome" untuk menggenerate test report ke dalam bentuk html
